@@ -6,7 +6,6 @@ It includes both **Exploratory Data Analysis (EDA)** in Jupyter Notebook and an 
 ## 📂 Files in this repository
 - 📓 shopping_trends_analysis.ipynb → Jupyter Notebook with full EDA
 - 📊 shopping_trends_dashboard.pbix → Power BI dashboard
-- 📄 shopping_trends_clean.csv → cleaned dataset used for visualization
 
 ## 🔍 Project Workflow
 1. Data Cleaning and Preprocessing using Python (Pandas)
